@@ -4,4 +4,4 @@ Fundamental understanding — That's the core focus of my development. In the sh
 Whenever safe, I strive to be honest and transparent and invite others to do the same. This allows us to speak to underlying interests, and not positions. Knowing how to help each other, a mutualistic symbiotic relationship can be easily established.
 
 # Working on?
-[Sifaka.dev](https://sifaka.dev/), aimed at pragmatic database design for MongoDB, PostgresQL and other platforms. A time-efficient, easy-to-use tool that translates intent into implementation. Put short: happy dev go brrr.
+[Sifaka.dev](https://sifaka.dev/), aimed at pragmatic database design for MongoDB, PostgresQL and other platforms. A time-efficient, easy-to-use tool that translates intent into implementation. Put short: happy dev database design go brrr.
